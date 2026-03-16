@@ -237,14 +237,9 @@
                                 </tfoot>
                             </table>
 
-                            <div class="payment-methods">
-                                @include('flash-message')
-                                <h4 class="">Payment methods (MPESA)</h4>
-                                   <div class="form-group">
-                                        <label>Phone</label>
-                                        <input type="tel" name="telephone" class="form-control" placeholder='0712345678'required/>
-                                    </div>
-                            </div>
+                          
+                        <h2 class="">Paybill No: 55555</h4>
+                        <h2 class="">A/c No: 55555</h4>
 
                             <button class="btn btn-dark btn-place-order" type="submit" form="checkout-form">
                                 Place order
@@ -253,16 +248,7 @@
                         </form>
                        <div>
                         </div>
-                        <h4 class="">Confirm Mpesa Transaction</h4>
-                        <form action="{{url('confirmTransaction')}}" method="post">
-                                    @csrf
-                                   <div class="form-group">
-                                        <input type="text" name="ref" class="form-control" placeholder='THDBDHFFJF' />
-                                    </div>
-                                      <button class="btn btn-dark btn-place-order" type="submit">
-                                Confirm
-                            </button>
-                        </form>
+                
                         <!-- End .cart-summary -->
                     </div>
                      

@@ -118,7 +118,7 @@
 
                         <div class="header-contact d-none d-lg-flex pl-4 pr-4">
                             <img alt="phone" src="{{asset('asseti/images/phone.png')}}" width="30" height="30" class="pb-1">
-                            <h6>Call us now<a href="tel:#" class="text-dark font1">+254 728 422320</a></h6>
+                            <h6>Call us now<a href="tel:#" class="text-dark font1">+254 706 978237</a></h6>
                         </div>
 
                         <a href="{{url('Login')}}" class="header-icon" title="login"><i class="icon-user-2"></i></a>
