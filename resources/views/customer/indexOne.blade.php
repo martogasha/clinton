@@ -142,7 +142,7 @@
 
                         <div class="header-contact d-none d-lg-flex align-items-center pr-xl-5 mr-5 mr-xl-3 ml-5">
                             <i class="icon-phone-2"></i>
-                            <h6 class="pt-1 line-height-1">Call us now<a href="tel:#" class="d-block text-dark ls-10 pt-1">+254 728 422320</a></h6>
+                            <h6 class="pt-1 line-height-1">Call us now<a href="tel:#" class="d-block text-dark ls-10 pt-1">+254 706 978237</a></h6>
                         </div>
                         <!-- End .header-contact -->
 
@@ -354,27 +354,7 @@
                          
                             <!-- End .banner -->
                         </div>
-                        <div class="brands-slider owl-carousel owl-theme images-center appear-animate" data-animation-name="fadeIn" data-animation-duration="700" data-owl-options="{
-                            'margin': 0,
-							'responsive': {
-								'768': {
-									'items': 4
-                                },
-                                '991': {
-									'items': 4
-                                },
-                                '1200': {
-									'items': 5
-								}
-							}
-						}">
-                            <a href="{{url('Shop',5)}}"><img src="asseti/images/brands/small/brand1.png" width="140" height="60" alt="brand"></a>
-                            <a href="{{url('Shop',17)}}"><img src="asseti/images/brands/small/brand2.png" width="140" height="60" alt="brand"></a>
-                            <a href="{{url('Shop',1)}}"><img src="asseti/images/brands/small/brand3.png" width="140" height="60" alt="brand"></a>
-                            <a href=""><img src="asseti/images/brands/small/brand4.png" width="140" height="60" alt="brand"></a>
-                            <a href="{{url('Shop',8)}}"><img src="asseti/images/brands/small/brand5.png" width="140" height="60" alt="brand"></a>
-                            <a href=""><img src="asseti/images/brands/small/brand6.png" width="140" height="60" alt="brand"></a>
-                        </div>
+                   
                         <!-- End .featured-proucts -->
     <h2 class="section-title ls-n-10 m-b-4 appear-animate" data-animation-name="fadeInUpShorter">
                             Accessories</h2>

@@ -25,7 +25,7 @@
                                         <span class="contact-info-label">Address:</span>Nairobi
                                     </li>
                                     <li>
-                                        <span class="contact-info-label">Phone:</span><a href="tel:">+254 728 422320</a>
+                                        <span class="contact-info-label">Phone:</span><a href="tel:">+254 706 978237</a>
                                     </li>
                                     <li>
                                         <span class="contact-info-label">Email:</span> <a href="https://portotheme.com/cdn-cgi/l/email-protection#8ce1ede5e0cce9f4ede1fce0e9a2efe3e1">mylonixtech@gmail.com</a>
