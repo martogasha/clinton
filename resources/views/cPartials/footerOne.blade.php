@@ -22,13 +22,13 @@
                                 <h4 class="widget-title mb-1 pb-1">Contact Info</h4>
                                 <ul class="contact-info m-b-4">
                                     <li>
-                                        <span class="contact-info-label">Address:</span>Nairobi
+                                        <span class="contact-info-label">Address:</span>Kagio
                                     </li>
                                     <li>
                                         <span class="contact-info-label">Phone:</span><a href="tel:">+254 706 978237</a>
                                     </li>
                                     <li>
-                                        <span class="contact-info-label">Email:</span> <a href="https://portotheme.com/cdn-cgi/l/email-protection#8ce1ede5e0cce9f4ede1fce0e9a2efe3e1">mylonixtech@gmail.com</a>
+                                        <span class="contact-info-label">Email:</span> <a href="https://portotheme.com/cdn-cgi/l/email-protection#8ce1ede5e0cce9f4ede1fce0e9a2efe3e1">autosparekirinyaga@gmail.com</a>
                                     </li>
                                     <li>
                                         <span class="contact-info-label">Working Days/Hours:</span> Mon - Sun / 9:00 AM - 8:00 PM
